@@ -16,6 +16,4 @@ Looked over CNNs and Image Classification using Deep Learning
 Week 4
 Worked on Image Datasets
 Learnt Images as tensors, resizing, channels, image preprocessing
-
-Week 5
 GANs was explored and built a basic GAN
